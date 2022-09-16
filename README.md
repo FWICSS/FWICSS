@@ -6,7 +6,7 @@ Web, mobile backend,C, I try to touch everything. I prefer the web for now.
 I am 22 years old... But I will be 23 in 351 days 🎉
 Here is my homemade daytime ☀️ counter before next year ⏱ **137 day before 2023 ⏱**
 ### About my knowledge 👨‍🎓
-I create new project to learn more and more. My main [portfolio](https://dimitiriaigle.fr) contain links to go on other github pages.
+I create new project to learn more and more. My main [portfolio](https://dimitriaigle.fr) contain links to go on other github pages.
 
 #### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
