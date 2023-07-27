@@ -31,9 +31,9 @@ I create new project to learn more and more. My main [portfolio](https://dimitir
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### My skills 😛
-![](https://github-readme-stats.vercel.app/api?username=djimi971&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=djimi971&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=djimi971&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=dim-sDev&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dim-sDev&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dim-sDev&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ### I will learn soon 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -48,7 +48,7 @@ I create new project to learn more and more. My main [portfolio](https://dimitir
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dimitriaigle@dimitriaigle.fr&su=Hellow%20to%20GitHub!)
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/Djimi971/count.svg" />
+<img src="https://profile-counter.glitch.me/dim-sDev/count.svg" />
 #
 Added the \`thu 16 Aug 2022\`
 #
