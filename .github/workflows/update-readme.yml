@@ -1,0 +1,32 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Exécute tous les jours à minuit (UTC)
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update README
+        run: node index.js
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "Your Name"
+          git config --global user.email "your.email@example.com"
+          git add .
+          git commit -m "Update README with dynamic content" || true
+          git push
