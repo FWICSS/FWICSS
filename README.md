@@ -1,12 +1,12 @@
 ### Hi there 👋
-I represent myself as a Eagle 🦅 and I'm a studiant at University of west indies (Fouillole) and I am on an apprenticeship contract at Spoconline.
+I represent myself as a Lion 🦁️ and I'm a studiant at University of west indies (Fouillole) and I am on an apprenticeship contract at Spoconline.
 Web, mobile backend,C, I try to touch everything. I prefer the web for now.
 
 ### About me
-I am 22 years old... But I will be 23 in 351 days 🎉
-Here is my homemade daytime ☀️ counter before next year ⏱ **137 day before 2023 ⏱**
+I am 23 years old... But I will be 24 in 365 days 🎉
+Here is my homemade daytime ☀️ counter before next year ⏱ **150 day before 2024 ⏱**
 ### About my knowledge 👨‍🎓
-I create new project to learn more and more. My main [portfolio](https://dimitriaigle.fr) contain links to go on other github pages.
+I create new project to learn more and more. My main [portfolio](https://dimitiriaigle.fr) contain links to go on other github pages.
 
 #### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
@@ -31,9 +31,9 @@ I create new project to learn more and more. My main [portfolio](https://dimitri
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### My skills 😛
-![](https://github-readme-stats.vercel.app/api?username=djimi971&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=djimi971&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=djimi971&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=dim-sDev&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dim-sDev&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dim-sDev&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ### I will learn soon 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -48,9 +48,9 @@ I create new project to learn more and more. My main [portfolio](https://dimitri
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dimitriaigle@dimitriaigle.fr&su=Hellow%20to%20GitHub!)
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/Djimi971/count.svg" />
-
+<img src="https://profile-counter.glitch.me/dim-sDev/count.svg" />
+#
 Added the `thu 16 Aug 2022`
-
-Last update on Tue Aug 16 2022
-🤖 This README.md is updated with wickedness, by Dimbot 🦁️
+#
+Last update on Fri Aug 04 2023
+🤖 This README.md is updated with cruelty, by Dimbot 🦁️
