@@ -1,10 +1,10 @@
 ### Hi there 👋
-I represent myself as a Eagle 🦅 and I'm a studiant at University of west indies (Fouillole) and I am on an apprenticeship contract at Spoconline.
+I represent myself as a lion eagle 🦁🦅 and I'm a studiant at University of west indies (Fouillole) and I am on an apprenticeship contract at Spoconline.
 Web, mobile backend,C, I try to touch everything. I prefer the web for now.
 
 ### About me
-I am 23 years old... But I will be 24 in 347 days 🎉
-Here is my homemade daytime ☀️ counter before next year ⏱ **132 day before 2024 ⏱**
+I am 23 years old... But I will be 24 in 346 days 🎉
+Here is my homemade daytime ☀️ counter before next year ⏱ **131 day before 2024 ⏱**
 ### About my knowledge 👨‍🎓
 I create new project to learn more and more. My main [portfolio](https://dimitiriaigle.fr) contain links to go on other github pages.
 
@@ -52,5 +52,5 @@ I create new project to learn more and more. My main [portfolio](https://dimitir
 #
 Added the `thu 16 Aug 2022`
 #
-Last update on Tue Aug 22 2023
-🤖 This README.md is updated with wickedness, by Dimbot 🦁️
+Last update on Wed Aug 23 2023
+🤖 This README.md is updated with pleasure, by Dimbot 🦁️
