@@ -18,6 +18,7 @@ function generateNewREADME() {
 
     const identifierToUpdate = {
         // * DBNW = Day Before New Year
+        getAge: getAge(),
         day_before_new_years: getDBNWSentence(),
         age_and_birthday: getAgeAndBirthdaySentence(),
         myself: getMySelf(),
@@ -58,6 +59,16 @@ function getMySelf() {
             ? 'Lion 🦁️'
             : 'Eagle 🦅'
         : 'lion eagle 🦁🦅';
+}
+
+function getAge(){
+    const birthday = new Date('2000-08-03T00:00:00.000Z');
+
+    const diffBirthdayToToday = today - birthday;
+
+    // to get my current ages
+    const age = new Date(diffBirthdayToToday).getFullYear() - 1970;
+    return `I am ${age} years old`;
 }
 
 function getAgeAndBirthdaySentence() {
