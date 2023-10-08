@@ -1,8 +1,9 @@
+
 ### Hello, I'm Dimitri AIGLE 👋
+    
+I'm a French West Indies and i Code with Sun 🌞 and Style ✨ (FWICSS) 
 
-   I'm a French West Indies and i Code with Sun 🌞 and Style ✨ (FWICSS)
-
-🦁 Born on August 3rd, 2000, I'm 23 years old and proud to be a Leo! I love sharing my passion for technology and video games.
+Lion 🦁️ Born on August 3rd, 2000, I am 23 years old and proud to be a Leo! I love sharing my passion for technology and video games.
 
 🎓 I'm student at the University of the French West Indies a. I'm currently studying for a Master's degree in Computer Science.
 
@@ -14,13 +15,10 @@
 
 Feel free to explore my projects and reach out to me if you have any questions or want to discuss exciting collaborations!
 
-
-
+    
 ### About me
-I am 23 years old... But I will be 24 in 351 days 🎉
-Here is my homemade daytime ☀️ counter before next year ⏱ **137 day before 2023 ⏱**
-
-### About my knowledge 👨‍🎓
+I am 23 years old... But I will be 24 in 300 days 🎉
+Here is my homemade daytime ☀️ counter before next year ⏱ **85 day before 2024 ⏱**
 
 #### Développement Web et Mobile
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -75,8 +73,9 @@ These statistics reflect my GitHub activity. Feel free to explore my projects be
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dimitriaigle@dimitriaigle.fr&su=Hellow%20to%20GitHub!)
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/FWICSS/count.svg" alt="number of visitor"/>
-
-
-Last update on Tue Aug 16 2022
-🤖 This README.md is updated with wickedness, by Dimbot 🦁️
+<img src="https://profile-counter.glitch.me/dim-sDev/count.svg" />
+#
+Added the `thu 7 Oct 2023`
+#
+Last update on Sun Oct 08 2023
+🤖 This README.md is updated with undefined, by Dimbot 🦁️
