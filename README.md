@@ -17,8 +17,8 @@ Feel free to explore my projects and reach out to me if you have any questions o
 
     
 ### About me
-I am 23 years old... But I will be 24 in 216 days 🎉
-Here is my homemade daytime ☀️ counter before next year ⏱ **1 day before 2024 ⏱**
+I am 23 years old... But I will be 24 in 215 days 🎉
+Here is my homemade daytime ☀️ counter before next year ⏱ **366 day before 2025 ⏱**
 
 #### Développement Web et Mobile
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -77,5 +77,5 @@ These statistics reflect my GitHub activity. Feel free to explore my projects be
 #
 Added the `thu 7 Oct 2023`
 #
-Last update on Sun Dec 31 2023
-🤖 This README.md is updated with undefined, by Dimbot 🦁️
+Last update on Mon Jan 01 2024
+🤖 This README.md is updated with hate, by Dimbot 🦁️
