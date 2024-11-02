@@ -3,7 +3,7 @@
     
 I'm a French West Indies and i Code with Sun 🌞 and Style ✨ (FWICSS) 
 
-lion eagle 🦁🦅 Born on August 3rd, 2000, I am 24 years old and proud to be a Leo! I love sharing my passion for technology and video games.
+Lion 🦁️ Born on August 3rd, 2000, I am 24 years old and proud to be a Leo! I love sharing my passion for technology and video games.
 
 🎓 I'm student at the University of the French West Indies a. I'm currently studying for a Master's degree in Computer Science.
 
@@ -17,8 +17,8 @@ Feel free to explore my projects and reach out to me if you have any questions o
 
     
 ### About me
-I am 24 years old... But I will be 25 in 275 days 🎉
-Here is my homemade daytime ☀️ counter before next year ⏱ **61 day before 2025 ⏱**
+I am 24 years old... But I will be 25 in 274 days 🎉
+Here is my homemade daytime ☀️ counter before next year ⏱ **60 day before 2025 ⏱**
 
 #### Développement Web et Mobile
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -77,5 +77,5 @@ These statistics reflect my GitHub activity. Feel free to explore my projects be
 #
 Added the `thu 7 Oct 2023`
 #
-Last update on Fri Nov 01 2024
-🤖 This README.md is updated with cruelty, by Dimbot 🦁️
+Last update on Sat Nov 02 2024
+🤖 This README.md is updated with horror, by Dimbot 🦁️
