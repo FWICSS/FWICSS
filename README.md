@@ -66,9 +66,9 @@ Here is my homemade daytime ☀️ counter before next year ⏱ **221 day before
 
 ### GitHub Statistics 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FWICSS&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=FWICSS&theme=dark&hide_border=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FWICSS&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FWICSS&theme=dark&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&cache_seconds=1800)
+![Streak](https://streak-stats.demolab.com/?user=FWICSS&theme=dark&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FWICSS&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact&cache_seconds=1800)
 
 ---
 
