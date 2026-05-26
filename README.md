@@ -1,7 +1,7 @@
 
 ### Hello, I'm Dimitri AIGLE 👋
 
-Lion 🦁️ — I'm from the French West Indies, and I code with Sun 🌞 and Style ✨ (FWICSS)
+Eagle 🦅 — I'm from the French West Indies, and I code with Sun 🌞 and Style ✨ (FWICSS)
 
 I am 25 years old and proud to be a Leo! Born on August 3rd, 2000, I'm passionate about technology, video games, and continuous learning.
 
@@ -15,8 +15,8 @@ Feel free to explore my projects and reach out for exciting collaborations!
 
 
 ### About me
-I am 25 years old... But I will be 26 in 70 days 🎉
-Here is my homemade daytime ☀️ counter before next year ⏱ **221 day before 2027 ⏱**
+I am 25 years old... But I will be 26 in 69 days 🎉
+Here is my homemade daytime ☀️ counter before next year ⏱ **220 day before 2027 ⏱**
 
 ---
 
@@ -66,9 +66,9 @@ Here is my homemade daytime ☀️ counter before next year ⏱ **221 day before
 
 ### GitHub Statistics 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FWICSS&theme=dark&hide_border=true&include_all_commits=false&count_private=true&show_icons=true&cache_seconds=1800)
-![Streak](https://streak-stats.demolab.com/?user=FWICSS&theme=dark&hide_border=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FWICSS&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FWICSS&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=FWICSS&theme=dark&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FWICSS&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
@@ -83,5 +83,5 @@ Here is my homemade daytime ☀️ counter before next year ⏱ **221 day before
 #
 Added the `thu 7 Oct 2023`
 #
-Last update on Sun May 24 2026
-🤖 This README.md is updated with love, by Dimbot 🦁️
+Last update on Tue May 26 2026
+🤖 This README.md is updated with wickedness, by Dimbot 🦁️
