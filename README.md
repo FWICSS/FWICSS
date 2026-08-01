@@ -15,8 +15,8 @@ Feel free to explore my projects and reach out for exciting collaborations!
 
 
 ### About me
-I am 25 years old... But I will be 26 in 3 days 🎉
-Here is my homemade daytime ☀️ counter before next year ⏱ **154 day before 2027 ⏱**
+I am 25 years old... But I will be 26 in 2 days 🎉
+Here is my homemade daytime ☀️ counter before next year ⏱ **153 day before 2027 ⏱**
 
 ---
 
@@ -83,5 +83,5 @@ Here is my homemade daytime ☀️ counter before next year ⏱ **154 day before
 #
 Added the `thu 7 Oct 2023`
 #
-Last update on Fri Jul 31 2026
-🤖 This README.md is updated with cruelty, by Dimbot 🦁️
+Last update on Sat Aug 01 2026
+🤖 This README.md is updated with horror, by Dimbot 🦁️
