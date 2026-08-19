@@ -1,7 +1,7 @@
 
 ### Hello, I'm Dimitri AIGLE 👋
 
-Eagle 🦅 — I'm from the French West Indies, and I code with Sun 🌞 and Style ✨ (FWICSS)
+lion eagle 🦁🦅 — I'm from the French West Indies, and I code with Sun 🌞 and Style ✨ (FWICSS)
 
 I am 26 years old and proud to be a Leo! Born on August 3rd, 2000, I'm passionate about technology, video games, and continuous learning.
 
@@ -15,8 +15,8 @@ Feel free to explore my projects and reach out for exciting collaborations!
 
 
 ### About me
-I am 26 years old... But I will be 27 in 350 days 🎉
-Here is my homemade daytime ☀️ counter before next year ⏱ **136 day before 2027 ⏱**
+I am 26 years old... But I will be 27 in 349 days 🎉
+Here is my homemade daytime ☀️ counter before next year ⏱ **135 day before 2027 ⏱**
 
 ---
 
@@ -83,5 +83,5 @@ Here is my homemade daytime ☀️ counter before next year ⏱ **136 day before
 #
 Added the `thu 7 Oct 2023`
 #
-Last update on Tue Aug 18 2026
-🤖 This README.md is updated with wickedness, by Dimbot 🦁️
+Last update on Wed Aug 19 2026
+🤖 This README.md is updated with pleasure, by Dimbot 🦁️
