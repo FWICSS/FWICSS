@@ -79,14 +79,9 @@ Here is my homemade daytime ☀️ counter before next year ⏱ <#day_before_new
 
 ### GitHub Statistics 📊
 
+![GitHub Stats](./assets/stats.svg)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=FWICSS&theme=dark&hide_border=true)
-
-<!-- Cards below are served by a self-hosted github-readme-stats on stats.fwicss.fr.
-     The public instance (github-readme-stats.vercel.app) is DEPLOYMENT_PAUSED and was
-     rendering as broken images. Uncomment once the Coolify service is up.
-![GitHub Stats](https://stats.fwicss.fr/api?username=FWICSS&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
-![Most Used Languages](https://stats.fwicss.fr/api/top-langs/?username=FWICSS&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
--->
+![Most Used Languages](./assets/top-langs.svg)
 
 ---
 
