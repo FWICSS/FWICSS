@@ -9,14 +9,22 @@ I am 26 years old and proud to be a Leo! Born on August 3rd, 2000, I'm passionat
 
 💻 Full-stack developer specializing in web & mobile apps, back-end systems, and cloud-native solutions. I build everything from online CRMs to mobile applications and scalable APIs.
 
+📝 I write about AI agents, Claude Code and shipping software from the Caribbean on **[dimitriaigle.fr](https://dimitriaigle.fr)** — build in public, in 🇫🇷 and 🇬🇧.
+
 🚀 Always pushing for clean, well-crafted solutions — from design to deployment.
 
 Feel free to explore my projects and reach out for exciting collaborations!
 
+### Where I write & build 🔗
+
+[![Website](https://img.shields.io/badge/dimitriaigle.fr-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://dimitriaigle.fr)
+[![Articles](https://img.shields.io/badge/Articles-1A1A1A?style=for-the-badge&logo=rss&logoColor=white)](https://dimitriaigle.fr/articles)
+[![Tools](https://img.shields.io/badge/Tools-1A1A1A?style=for-the-badge&logo=simpleicons&logoColor=white)](https://dimitriaigle.fr/outils)
+[![Build log](https://img.shields.io/badge/Build_log-1A1A1A?style=for-the-badge&logo=githubactions&logoColor=white)](https://dimitriaigle.fr/build-log)
 
 ### About me
-I am 26 years old... But I will be 27 in 328 days 🎉
-Here is my homemade daytime ☀️ counter before next year ⏱ **114 day before 2027 ⏱**
+I am 26 years old... But I will be 27 in 327 days 🎉
+Here is my homemade daytime ☀️ counter before next year ⏱ **113 day before 2027 ⏱**
 
 ---
 
@@ -28,11 +36,13 @@ Here is my homemade daytime ☀️ counter before next year ⏱ **114 day before
 #### 🖥️ Front-End
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 #### ⚙️ Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,12 +51,15 @@ Here is my homemade daytime ☀️ counter before next year ⏱ **114 day before
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
 
-#### 🐳 DevOps & Cloud
+#### 🐳 DevOps & Automation
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-8B5CF6?style=for-the-badge&logo=coolify&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 #### 💡 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -54,7 +67,6 @@ Here is my homemade daytime ☀️ counter before next year ⏱ **114 day before
 
 #### 🎨 Design & Graphics
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 
@@ -66,19 +78,22 @@ Here is my homemade daytime ☀️ counter before next year ⏱ **114 day before
 
 ### GitHub Statistics 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FWICSS&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=FWICSS&theme=dark&hide_border=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FWICSS&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+<!-- Cards below are served by a self-hosted github-readme-stats on stats.fwicss.fr.
+     The public instance (github-readme-stats.vercel.app) is DEPLOYMENT_PAUSED and was
+     rendering as broken images. Uncomment once the Coolify service is up.
+![GitHub Stats](https://stats.fwicss.fr/api?username=FWICSS&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
+![Most Used Languages](https://stats.fwicss.fr/api/top-langs/?username=FWICSS&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+-->
 
 ---
 
 ### Contact Me 📫
 
+[![Website](https://img.shields.io/badge/dimitriaigle.fr-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://dimitriaigle.fr/contact)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:dimitriaigle@dimitriaigle.fr)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/7241)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dimitriaigle@dimitriaigle.fr&su=Hello%20from%20GitHub!)
-
-### Visitor count
-<img src="https://profile-counter.glitch.me/dim-sDev/count.svg" />
 
 #
 Added the `thu 7 Oct 2023`
