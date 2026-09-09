@@ -3,10 +3,14 @@ name: Update README
 on:
   schedule:
     - cron: "0 0 * * *" # Exécute tous les jours à minuit (UTC)
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -16,6 +20,22 @@ jobs:
         uses: actions/setup-node@v6
         with:
           node-version: "24.x"
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=FWICSS&theme=dark&hide_border=true&show_icons=true
+          path: assets/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=FWICSS&theme=dark&hide_border=true&layout=compact&langs_count=8
+          path: assets/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Update README
         run: node index.js
