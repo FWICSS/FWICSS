@@ -1,7 +1,7 @@
 
 ### Hello, I'm Dimitri AIGLE 👋
 
-Eagle 🦅 — I'm from the French West Indies, and I code with Sun 🌞 and Style ✨ (FWICSS)
+lion eagle 🦁🦅 — I'm from the French West Indies, and I code with Sun 🌞 and Style ✨ (FWICSS)
 
 I am 26 years old and proud to be a Leo! Born on August 3rd, 2000, I'm passionate about technology, video games, and continuous learning.
 
@@ -23,8 +23,8 @@ Feel free to explore my projects and reach out for exciting collaborations!
 [![Build log](https://img.shields.io/badge/Build_log-1A1A1A?style=for-the-badge&logo=githubactions&logoColor=white)](https://dimitriaigle.fr/build-log)
 
 ### About me
-I am 26 years old... But I will be 27 in 327 days 🎉
-Here is my homemade daytime ☀️ counter before next year ⏱ **113 day before 2027 ⏱**
+I am 26 years old... But I will be 27 in 326 days 🎉
+Here is my homemade daytime ☀️ counter before next year ⏱ **112 day before 2027 ⏱**
 
 ---
 
@@ -93,5 +93,5 @@ Here is my homemade daytime ☀️ counter before next year ⏱ **113 day before
 #
 Added the `thu 7 Oct 2023`
 #
-Last update on Thu Sep 10 2026
-🤖 This README.md is updated with wickedness, by Dimbot 🦁️
+Last update on Fri Sep 11 2026
+🤖 This README.md is updated with cruelty, by Dimbot 🦁️
