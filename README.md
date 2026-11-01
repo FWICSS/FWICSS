@@ -23,8 +23,8 @@ Feel free to explore my projects and reach out for exciting collaborations!
 [![Build log](https://img.shields.io/badge/Build_log-1A1A1A?style=for-the-badge&logo=githubactions&logoColor=white)](https://dimitriaigle.fr/build-log)
 
 ### About me
-I am 26 years old... But I will be 27 in 276 days 🎉
-Here is my homemade daytime ☀️ counter before next year ⏱ **62 day before 2027 ⏱**
+I am 26 years old... But I will be 27 in 275 days 🎉
+Here is my homemade daytime ☀️ counter before next year ⏱ **61 day before 2027 ⏱**
 
 ---
 
@@ -93,5 +93,5 @@ Here is my homemade daytime ☀️ counter before next year ⏱ **62 day before 
 #
 Added the `thu 7 Oct 2023`
 #
-Last update on Sat Oct 31 2026
-🤖 This README.md is updated with horror, by Dimbot 🦁️
+Last update on Sun Nov 01 2026
+🤖 This README.md is updated with love, by Dimbot 🦁️
